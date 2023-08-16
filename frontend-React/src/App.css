@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+}
+
+.assignment-wrapper {
+  border: 1px dashed lightgray;
+  padding: 2em;
+  border-radius: 1em;
+  margin-top: 2em;
+}
+
+.assignment-wrapper-title {
+  margin-top: -2.3em;
+  margin-bottom: 1em;
+  width: min-content;
+  background-color: white; 
+  white-space: nowrap;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  font-size: x-large;
+  font-weight: 500; 
+}
+
+.comment-bubble {
+  background-color: #eeeeee;
+  border-radius: 1em;
+  padding: 1em;
+  margin: 1em 0em;
+}
+
+.logo {
+  padding: 0.5em 0em;
+  max-width: 3em;
+}
+
+.nav {
+  min-height: 50px;
+  border-bottom: 1px solid grey;
+  width: 100%;
+}
+
+.NavBar {
+  padding-top: 25px;
+}
